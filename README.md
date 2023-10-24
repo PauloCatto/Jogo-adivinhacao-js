@@ -1,5 +1,7 @@
 # jogo-adivinhacao-js
 
+https://paulocatto.github.io/jogo-adivinhacao-js/
+
 Este projeto é um jogo de adivinhação em JavaScript, onde o jogador deve adivinhar um número secreto de 1 a 10.
 O código inclui funcionalidades de interação com o usuário, como exibição de mensagens de texto e a capacidade de reiniciar o jogo.
 Além disso, ele utiliza a biblioteca ResponsiveVoice para adicionar síntese de fala às mensagens do jogo,
